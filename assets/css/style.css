@@ -1,0 +1,13 @@
+.crystal {
+    width: 200px;
+    height: 300px;
+  }
+  body {
+  background-color: dodgerblue;
+  color:whitesmoke;
+
+  }
+  #textOne {
+    font-size:18px;
+  }
+
